@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F9988F97-0D3C-40FE-BBBF-45B1617CBBEE}</ProjectGuid>
+    <ProjectGuid>{B8A217EE-733F-474C-9B7B-F36582AC53BF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Projeto3D</RootNamespace>
-    <AssemblyName>Projeto3D</AssemblyName>
+    <RootNamespace>IluminacaoJaq</RootNamespace>
+    <AssemblyName>IluminacaoJaq</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

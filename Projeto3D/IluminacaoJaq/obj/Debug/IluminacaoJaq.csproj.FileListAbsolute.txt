@@ -1,0 +1,12 @@
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\IluminacaoJaq\bin\Debug\IluminacaoJaq.exe.config
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\IluminacaoJaq\bin\Debug\IluminacaoJaq.exe
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\IluminacaoJaq\bin\Debug\IluminacaoJaq.pdb
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\IluminacaoJaq\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\IluminacaoJaq\bin\Debug\Tao.OpenGl.dll
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\IluminacaoJaq\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\IluminacaoJaq\bin\Debug\Tao.OpenGl.xml
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\IluminacaoJaq\obj\Debug\IluminacaoJaq.csprojAssemblyReference.cache
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\IluminacaoJaq\obj\Debug\IluminacaoJaq.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\IluminacaoJaq\obj\Debug\IluminacaoJaq.csproj.CopyComplete
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\IluminacaoJaq\obj\Debug\IluminacaoJaq.exe
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\IluminacaoJaq\obj\Debug\IluminacaoJaq.pdb

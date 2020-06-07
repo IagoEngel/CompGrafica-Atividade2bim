@@ -1,0 +1,12 @@
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\Projeto3D\bin\Debug\Projeto3D.exe.config
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\Projeto3D\bin\Debug\Projeto3D.exe
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\Projeto3D\bin\Debug\Projeto3D.pdb
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\Projeto3D\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\Projeto3D\bin\Debug\Tao.OpenGl.dll
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\Projeto3D\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\Projeto3D\bin\Debug\Tao.OpenGl.xml
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\Projeto3D\obj\Debug\Projeto3D.csprojAssemblyReference.cache
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\Projeto3D\obj\Debug\Projeto3D.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\Projeto3D\obj\Debug\Projeto3D.csproj.CopyComplete
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\Projeto3D\obj\Debug\Projeto3D.exe
+C:\Users\Coding\Desktop\GitKrakenRepositorio\CompGrafica-Atividade2bim\Projeto3D\Projeto3D\obj\Debug\Projeto3D.pdb
